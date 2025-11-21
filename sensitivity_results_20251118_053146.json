@@ -1,0 +1,27 @@
+[
+  {
+    "model_name": "ResNet18",
+    "psi_a": 0.10152827335309311,
+    "acc_sensitivity": 11.400000000000006,
+    "sigma_plus": 0.55,
+    "sigma_minus": 0.45,
+    "avg_loss_plus": 2.077766997904717,
+    "avg_loss_minus": 2.0676141705694078,
+    "std_loss_plus": 0.0,
+    "std_loss_minus": 0.0,
+    "avg_acc_plus": 45.49,
+    "avg_acc_minus": 46.63,
+    "losses_plus": [
+      2.077766997904717
+    ],
+    "losses_minus": [
+      2.0676141705694078
+    ],
+    "accuracies_plus": [
+      45.49
+    ],
+    "accuracies_minus": [
+      46.63
+    ]
+  }
+]

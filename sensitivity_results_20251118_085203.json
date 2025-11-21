@@ -1,0 +1,102 @@
+[
+  {
+    "model_name": "ResNet18",
+    "psi_a": 0.6534800951993924,
+    "acc_sensitivity": 10.450000000000017,
+    "sigma_plus": 0.30000000000000004,
+    "sigma_minus": 0.1,
+    "avg_loss_plus": 1.989886700352536,
+    "avg_loss_minus": 1.8591906813126575,
+    "std_loss_plus": 0.0,
+    "std_loss_minus": 0.0,
+    "avg_acc_plus": 41.12,
+    "avg_acc_minus": 43.21,
+    "losses_plus": [
+      1.989886700352536
+    ],
+    "losses_minus": [
+      1.8591906813126575
+    ],
+    "accuracies_plus": [
+      41.12
+    ],
+    "accuracies_minus": [
+      43.21
+    ]
+  },
+  {
+    "model_name": "MobileNetV2",
+    "psi_a": 0.07027954240388379,
+    "acc_sensitivity": 3.3999999999999986,
+    "sigma_plus": 0.30000000000000004,
+    "sigma_minus": 0.1,
+    "avg_loss_plus": 2.2443411093723924,
+    "avg_loss_minus": 2.2302852008916156,
+    "std_loss_plus": 0.0,
+    "std_loss_minus": 0.0,
+    "avg_acc_plus": 17.48,
+    "avg_acc_minus": 18.16,
+    "losses_plus": [
+      2.2443411093723924
+    ],
+    "losses_minus": [
+      2.2302852008916156
+    ],
+    "accuracies_plus": [
+      17.48
+    ],
+    "accuracies_minus": [
+      18.16
+    ]
+  },
+  {
+    "model_name": "ViT",
+    "psi_a": 0.3978633277023902,
+    "acc_sensitivity": 4.949999999999974,
+    "sigma_plus": 0.30000000000000004,
+    "sigma_minus": 0.1,
+    "avg_loss_plus": 2.1561456420753577,
+    "avg_loss_minus": 2.0765729765348797,
+    "std_loss_plus": 0.0,
+    "std_loss_minus": 0.0,
+    "avg_acc_plus": 35.31,
+    "avg_acc_minus": 36.3,
+    "losses_plus": [
+      2.1561456420753577
+    ],
+    "losses_minus": [
+      2.0765729765348797
+    ],
+    "accuracies_plus": [
+      35.31
+    ],
+    "accuracies_minus": [
+      36.3
+    ]
+  },
+  {
+    "model_name": "SimpleCNN",
+    "psi_a": 0.789901998978626,
+    "acc_sensitivity": 7.649999999999988,
+    "sigma_plus": 0.30000000000000004,
+    "sigma_minus": 0.1,
+    "avg_loss_plus": 2.1479563728163513,
+    "avg_loss_minus": 1.9899759730206261,
+    "std_loss_plus": 0.0,
+    "std_loss_minus": 0.0,
+    "avg_acc_plus": 30.62,
+    "avg_acc_minus": 32.15,
+    "losses_plus": [
+      2.1479563728163513
+    ],
+    "losses_minus": [
+      1.9899759730206261
+    ],
+    "accuracies_plus": [
+      30.62
+    ],
+    "accuracies_minus": [
+      32.15
+    ]
+  }
+]
